@@ -11,7 +11,7 @@ import os
 
 JOKE = (
     "My AI coding agent aced the live demo \u2014 then filed a bug report "
-    "against me for the code it had just written."
+    "against me for the code it had just written itself."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
